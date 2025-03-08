@@ -6,4 +6,7 @@
     <File Path=".gitignore" />
     <File Path=".editorconfig" />
   </Folder>
+  <Folder Name="/src/">
+    <Project Path="src\AutoTransfer.ConsoleTest\AutoTransfer.ConsoleTest.csproj" Type="Classic C#" />
+  </Folder>
 </Solution>
